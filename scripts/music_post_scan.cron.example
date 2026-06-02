@@ -1,0 +1,5 @@
+SHELL=/bin/bash
+PATH=/usr/local/bin:/usr/bin:/bin
+
+# Every 10 minutes.
+*/10 * * * * $PROJECT_ROOT/scripts/scan_music_post.sh >> $PROJECT_ROOT/music_project/context/music_post_scan.log 2>&1

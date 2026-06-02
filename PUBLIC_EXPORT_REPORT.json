@@ -1,0 +1,21 @@
+{
+  "public_dir": "public_bundle",
+  "included": [
+    "docs/music_post_template.md",
+    "docs/music_post_template_example.yaml",
+    "docs/music_post_guide.md",
+    "scripts/scan_music_post.sh",
+    "scripts/scan_github_repos.sh",
+    "scripts/music_post_scan.cron.example",
+    "scripts/github_repo_scan.cron.example"
+  ],
+  "missing": [],
+  "redacted_files": 7,
+  "policy": {
+    "no_private_data": true,
+    "no_tokens": true,
+    "no_personal_identifiers": true,
+    "no_project_goals": true,
+    "no_private_context": true
+  }
+}

@@ -1,0 +1,120 @@
+track:
+ title: "Hurts in My Heart"
+ artist: "PROJECT"
+ origin: "свой"
+ file: "music post/моя музыка/новая/hurts_in_my_heart.flp"
+ source_link: ""
+ bpm: "140"
+ key: "F minor"
+ duration: "03:12"
+ language: "инструментал"
+ release_status: "готов"
+
+structure:
+ intro: "0:00-0:18"
+ verse_1: "0:18-0:48"
+ pre_chorus: ""
+ chorus: "0:48-1:12"
+ verse_2: ""
+ bridge: "1:48-2:12"
+ breakdown: "2:12-2:32"
+ outro: "2:32-3:12"
+
+content:
+ text: ""
+ lyrics_language_notes: ""
+ key_lines:
+ - ""
+ hook_quote: "night drive / cold air / no words"
+ mood_words:
+ - "cold"
+ - "lonely"
+ - "night"
+ - "urban"
+ - "fragile"
+ core_emotion: "тишина после сильного внутреннего напряжения"
+ visual_mood: "ночной город, дождь, свет фар, бетон"
+ narrative_angle: "состояние после эмоционального удара"
+ reference_tracks:
+ - "Burial - Archangel"
+ - "reference-artist - Late Train"
+ reference_creators:
+ - "reference-artist"
+ - "reference-artist"
+
+production:
+ genre: "electronic"
+ subgenre: "future garage / atmospheric"
+ sonic_character:
+ - "мягкий бит"
+ - "широкая реверберация"
+ - "холодный бас"
+ instruments:
+ - "pad"
+ - "sub bass"
+ - "perc"
+ arrangement_notes: "держать плотность нарастать к хорусу"
+ mix_notes: "не перегружать верх"
+ master_notes: "оставить динамику"
+ fl_studio_project: "music post/моя музыка/новая/hurts_in_my_heart/hurts_in_my_heart.flp"
+ usable_snippets:
+ - timestamp: "0:18-0:38"
+ description: "главный хук"
+ - timestamp: "0:48-1:12"
+ description: "хорус"
+
+purpose:
+ primary_goal: "релиз"
+ secondary_goals:
+ - "прогрев"
+ - "ротация"
+ target_platforms:
+ - Telegram
+ - Instagram
+ - TikTok
+ - YouTube
+ funnel_stage: "awareness"
+
+promotion:
+ launch_type: "обычный"
+ campaign_angle: "ночной холодный future garage без лица"
+ content_mix:
+ - "новый трек"
+ - "старые треки"
+ - "образовательный контент"
+ cta:
+ - "save"
+ - "listen"
+ outreach_targets:
+ - "слушатели"
+ - "плейлисты"
+ distribution_notes: "сначала короткие вертикальные фрагменты, потом длинные версии"
+
+constraints:
+ rights: "можно резать"
+ ownership: "полностью свой"
+ no_go:
+ - "не делать пафосную подачу"
+ what_to_avoid:
+ - "пересахаривание"
+ legal_notes: ""
+
+analytics:
+ expected_kpis:
+ - "просмотры"
+ - "сохранения"
+ - "репосты"
+ benchmark_sources:
+ - "reference-artist"
+ - "reference-artist"
+ success_criteria: "хук цепляет с первых секунд"
+ failure_signals: "проседает удержание на первом хук-фрагменте"
+
+notes:
+ what_is_strong_in_track: "атмосфера и бас"
+ what_is_weak_or_risky: "может быть слишком тихим для масс-охвата"
+ where_to_push_emotion: "в хук и паузы"
+ where_to_push_story: "в тексты к постам"
+ where_to_push_visuals: "ночь, дождь, стекло, бетон"
+ monetization_angle: "релиз + питчинг + коллабы"
+ extra_instructions: "держать холодный и прямой тон"

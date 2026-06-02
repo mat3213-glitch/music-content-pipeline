@@ -1,0 +1,5 @@
+SHELL=/bin/bash
+PATH=/usr/local/bin:/usr/bin:/bin
+
+# Daily at 07:10.
+10 7 * * * $PROJECT_ROOT/scripts/scan_github_repos.sh >> $PROJECT_ROOT/music_project/context/github_repo_scan.log 2>&1
