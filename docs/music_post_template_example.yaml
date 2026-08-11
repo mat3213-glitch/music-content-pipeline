@@ -58,10 +58,10 @@ production:
  master_notes: "оставить динамику"
  fl_studio_project: "music post/моя музыка/новая/hurts_in_my_heart/hurts_in_my_heart.flp"
  usable_snippets:
- - timestamp: "0:18-0:38"
- description: "главный хук"
- - timestamp: "0:48-1:12"
- description: "хорус"
+   - timestamp: "0:18-0:38"
+     description: "главный хук"
+   - timestamp: "0:48-1:12"
+     description: "хорус"
 
 purpose:
  primary_goal: "релиз"
